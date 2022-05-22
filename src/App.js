@@ -1,5 +1,5 @@
 import './App.css';
-import UnderstandingState from './state/UnderstandingState';
+import UnderstandingState from './components/UnderstandingState';
 
 function App() {
   return (
